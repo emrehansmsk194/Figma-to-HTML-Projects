@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .font-rubik {
+        font-family: 'Rubik', sans-serif;
+    }
+    .font-inter {
+        font-family: 'Inter', sans-serif;
+    }
+    .font-gilroy {
+        font-family: 'Gilroy', sans-serif;
+    }
+}
